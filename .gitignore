@@ -1,0 +1,21 @@
+# CLion / JetBrains
+.idea/
+*.iml
+
+# CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled files
+*.o
+*.exe
+*.out
+
+# OS
+.DS_Store
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
